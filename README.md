@@ -1,1 +1,2 @@
-Some notes regarding the characteristics of Android Jetpack Dagger-Hilt, for my personal revision.
+- Some notes regarding the characteristics of Android Jetpack Dagger-Hilt, for my personal revision.
+- Also built a simple CI pipeline with GitHub Actions to get some practice.
